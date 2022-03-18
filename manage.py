@@ -3,7 +3,6 @@
 import os
 import sys
 
-# this comment is farji
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'foodshala.settings')
